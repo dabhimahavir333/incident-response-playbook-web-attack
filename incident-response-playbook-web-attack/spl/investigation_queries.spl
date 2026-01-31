@@ -1,0 +1,3 @@
+index=main sourcetype=access_common
+| stats count by clientip uri status
+| sort -count

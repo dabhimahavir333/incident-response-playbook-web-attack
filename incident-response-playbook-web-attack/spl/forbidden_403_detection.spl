@@ -1,0 +1,4 @@
+index=main sourcetype=access_common status=403
+| stats count by clientip
+| sort -count
+| head 20

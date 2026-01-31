@@ -1,0 +1,4 @@
+index=main sourcetype=access_common status=404
+| stats count by uri
+| sort -count
+| head 20

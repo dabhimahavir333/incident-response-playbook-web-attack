@@ -1,0 +1,2 @@
+index=main sourcetype=access_common
+| timechart span=5m count
