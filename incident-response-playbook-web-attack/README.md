@@ -25,10 +25,6 @@ The activity indicated possible scanning or malicious behavior targeting the web
 - Apache Web Server Access Logs
 - SPL (Search Processing Language)
 
----
-
-## Project Structure
-
 
 ---
 
